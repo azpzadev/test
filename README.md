@@ -1,4 +1,5 @@
 # Nuxt 3 Minimal Starter
+aB3$kL9qW2eR7tY6uI8oP0zXcV4bN5mJ
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
