@@ -1,18 +1,5 @@
 # Nuxt 3 Minimal Starter
-Lark 
-Ps: aB3$kL9qW2eR7tY6uI8oP0zXcV4bN5mJ
 
-#Apple Store
-w5!SKN:FvdQL?*sbr[+4X$
-
-apple ps ⇒ azp1001@AppleId
-
-Github
-azpzadev
-8119111001Za@
-
-——
-z@aZp135
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
